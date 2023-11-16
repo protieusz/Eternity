@@ -13,6 +13,12 @@ Fusion 360 Render:
 ![Screenshot 2023-11-04 at 1 04 46 PM](https://github.com/protieusz/Eternity/assets/118025702/f968554d-48c9-4ba2-a499-4d99e5e909e9)
 ![Screenshot 2023-11-04 at 1 04 58 PM](https://github.com/protieusz/Eternity/assets/118025702/48940891-c560-4c4d-b413-e345edd2add6)
 
+Test Fitting:
+
+![IMG_0353](https://github.com/protieusz/Eternity/assets/118025702/8d99799e-c14b-4dcd-b18d-723065609fe6)
+![IMG_0360](https://github.com/protieusz/Eternity/assets/118025702/cba8af95-49e2-499c-9e02-78d59f8b1196)
+
+
 # License
 
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
