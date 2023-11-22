@@ -1,4 +1,4 @@
-# Eternity
+# Forever-Eternity
 39 keys column staggered/GRIN/Sagittarius layout keyboard powered by my very own Omega Supreme pmw3360 sensor, PER56 encoder and 26 GP pins broken out module.
 
 Fusion 360 Render:
